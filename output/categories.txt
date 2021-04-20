@@ -1,0 +1,3 @@
+Action, Fantasy
+Action, Adventure, Drama
+Action, Adventure, Comedy
